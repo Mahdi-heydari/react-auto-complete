@@ -2,7 +2,7 @@
 
 Welcome to react-auto-complete! This is a small project for showing react skill and style power
 
-<img src="./screen.png"/>
+<img src="./public/screen.png"/>
 
 ## Installation 📩
 
